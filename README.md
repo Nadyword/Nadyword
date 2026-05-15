@@ -167,13 +167,6 @@ Documentation/Learning</td>
 </tr>
 </table>
 
-<p align="center">
-	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=30DaysOfPython)](https://github.com/Brandon-E-Ramirez/30DaysOfPython)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=30DaysOfReact)](https://github.com/Brandon-E-Ramirez/30DaysOfReact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=30DaysOfJS)](https://github.com/Brandon-E-Ramirez/30DaysOfJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=p5.js_sketches)](https://github.com/Brandon-E-Ramirez/p5.js_sketches)
-</p>
 </div> 
 
 <div>
@@ -208,24 +201,6 @@ Documentation/Learning</td>
 <p align="center">
  <img height="256" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </p>
-<!---
-```
-				       _=|_
-				     _[_## ]_
-				_  +[_[_+_]P/    _    |_       ____      _=--|-~
-				 ~---\_I_I_[=\--~ ~~--[o]--==-|##==]-=-~~  o]H
-				-~ /[_[_|_]_]\\  -_  [[=]]    |====]  __  !j]H
-				  /    "|"    \      ^U-U^  - |    - ~ .~  U/~
-				 ~~--__~~~--__~~-__   H_H_    |_     --   _H_
-				-. _  ~~~#######~~~     ~~~-    ~~--  ._ - ~~-=
-				           ~~~=~~  -~~--  _     . -      _ _ -
-				
-				       ----------------------------------
-				      |        June, 20th, 1969          |
-				      |  Here Men from the Planet Earth  |
-				      |   First set Foot upon the Moon   |
-				      | We came in Peace for all Mankind |
-				       ---------------------------=apx=--
 ```
 -->
 <!---
