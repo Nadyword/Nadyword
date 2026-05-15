@@ -28,31 +28,29 @@
 
 
 <p>
-Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like making software that provides value to other people and the process of making/learning new and novel things. Whenever I have free time I like playing guitar, going to the gym, digital art, writing, and teaching! My technical interests include software/game development, web dev, GNU/Linux, and open source! :) 
+Samuel David Sánchez Cubillán es un Ingeniero de Software enfocado en el desarrollo de APIs RESTful y la administración avanzada de bases de datos relacionales (PostgreSQL, SQL Server). Cuenta con una sólida trayectoria optimizando infraestructura cloud en AWS, automatización mediante CI/CD y gestión de contenedores con Docker. Su perfil destaca por la capacidad para integrar tecnologías de Inteligencia Artificial en el ciclo de desarrollo y asegurar la alta disponibilidad de aplicaciones críticas.
 </p> 
 
 <img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
 
 ```yaml
-name: Brandon Evaristo Ramirez
-located_in: Houston, Texas
-current_job: Student, Coding Sensei @ Code Ninjas
-stats: {Role:Binary Wizard, Status:Tired, XP:22, Power:83, MP:94, HP:47}
-usernames: ["@yaboi_ramirez", "@Brandon-E-Ramirez"]
-email: brandon.evaristo.ramirez@gmail.com
-resume: "https://external.ink?to=/rb.gy/cnjkwt"
-blog: "https://external.ink?to=/digital-crafting.hashnode.dev"
-dot_url: "https://dot.cards/brandon_e_ramirez"
+name: Samuel David Sanchez Cubillan
+located_in: Santiago, Chile
+current_job: Desarrollador Web @ NUROLEAP / Administrador de bases de datos @ Ayirca
+stats: {Role: Data & Cloud Wizard, Status: Active, XP: 28, Power: 88, MP: 90, HP: 85}
+usernames: ["@samuel-sanchez"]
+email: samuelsc1509@gmail.com
+resume: "linkedin.com/in/samuel-sanchez-774636169"
 education:
 [
-  "University of Houston - Clear Lake: Bachelors in Computer Science",
-  "Galveston College: Associates of Science (General Studies)"
+  "TECH Universidad Tecnológica: Ingeniería de Software, Computer Software Engineering",
+  "Coursera / Microsoft: Certificado profesional en Microsoft Back-End Developer"
 ]
-currently_studying: ["Python", "C++", "React"]
-field_of_interests: ["machine learning", "robotics", "computer graphics"]
-soft-skills: ["attention to details", "hard working", "time management"]
-misc_interests: ["cooking", "manga", "metal/blues", "mathematics", "japanese"]
-2023_goals: ["Code at least 1hr a day", "Wake up early", "Land developer role"]
+currently_studying: ["AWS Certified Cloud Practitioner"]
+field_of_interests: ["cloud architecture", "backend optimization", "ai integration", "devops"]
+soft-skills: ["adaptabilidad", "resolutivo", "comunicación efectiva", "priorización de tareas"]
+misc_interests: ["ai tools", "database tuning", "ci-cd automation", "excel analytics"]
+2026_goals: ["Obtain AWS Cloud Practitioner Certification", "Optimize cloud infrastructure scalability", "Master automated deployment workflows"]
 ```
 
 <table style="width:100%">
