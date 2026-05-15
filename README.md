@@ -9,7 +9,6 @@
 > <i>"If you can't explain it simply, you don't understand it well enough."</i> – Albert Einstein
 <p align="left">
 	
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/yaboi_ramirez.svg?style=social&label=Follow%20%40yaboi_ramirez)](https://twitter.com/yaboi_ramirez)
 ![wakatime](https://wakatime.com/badge/user/5c935070-0770-4681-a15d-9ebfd498125c.svg?style=flat-square)
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brandon-e-ramirez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/brandon-e-ramirez?tab=followers">
