@@ -168,10 +168,3 @@ Documentation/Learning</td>
 </table>
 
 </div> 
-
-<div>
-<hr>
-</div>
- <center><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</center>
-
-  [![Brandon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brandon-E-Ramirez&theme=react-dark&area=true&hide_border=true&point=fbf1c7&color=83a598)](https://github.com/ashutosh00710/github-readme-activity-graph)
