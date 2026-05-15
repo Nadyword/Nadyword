@@ -172,22 +172,6 @@ Documentation/Learning</td>
 <div>
 <hr>
 </div>
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
-<br>
-
-<div>
-<p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&rank_icon=percentile&show_icons=true&theme=monokai&card_width=230&rank_icon=percentile&show_icons=true&include_all_commits-true"&rank_icon=percentile align = "center"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brandon-e-ramirez&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=240" align = "center"/>
-</p>
-</div>
-<img src="https://cdnvideo-static-ssl.ctclove.ru/uploads/test/preview_picture/3854978478.gif" height="265" align="center"/>
-</div>
-
-
-
  <center><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</center>
 
   [![Brandon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brandon-E-Ramirez&theme=react-dark&area=true&hide_border=true&point=fbf1c7&color=83a598)](https://github.com/ashutosh00710/github-readme-activity-graph)
