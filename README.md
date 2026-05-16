@@ -53,86 +53,94 @@ misc_interests: ["ai tools", "database tuning", "ci-cd automation", "excel analy
 2026_goals: ["Obtain AWS Cloud Practitioner Certification", "Optimize cloud infrastructure scalability", "Master automated deployment workflows"]
 ```
 
-<table style="width:100%">
-<tr>
-<td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">
+<table style="width:100%; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; border-radius: 8px; overflow: hidden;">
+<tr style="border-bottom: 1px solid #30363d;">
+<td style="padding: 14px 16px; font-weight: 600; color: #58a6ff; background-color: #161b22; width: 25%; vertical-align: middle; white-space: nowrap;">
+<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">
 Lenguajes</td>
-	<td>
-<p align="center">
+	<td style="padding: 14px 16px; background-color: #0d1117; vertical-align: middle;">
+<p align="center" style="margin: 0;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cs,css,html,js,ts,powershell" />
+    <img src="https://skillicons.dev/icons?i=bash,cs,css,html,js,ts,powershell" style="vertical-align: middle;" />
   </a>
 </p>
 </td>
 </tr>
-<tr>
-<td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">
+<tr style="border-bottom: 1px solid #30363d;">
+<td style="padding: 14px 16px; font-weight: 600; color: #58a6ff; background-color: #161b22; width: 25%; vertical-align: middle; white-space: nowrap;">
+<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">
 Base de datos</td>
-	<td>
-<p align="center">
+	<td style="padding: 14px 16px; background-color: #0d1117; vertical-align: middle;">
+<p align="center" style="margin: 0;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,rails" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,rails" style="vertical-align: middle;" />
   </a>
 </p>
 </td>
 </tr>
-<tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">
+<tr style="border-bottom: 1px solid #30363d;">
+    <td style="padding: 14px 16px; font-weight: 600; color: #58a6ff; background-color: #161b22; width: 25%; vertical-align: middle; white-space: nowrap;">
+<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">
 Frameworks y Librerías </td>
-    <td>
-<p align="center">
+    <td style="padding: 14px 16px; background-color: #0d1117; vertical-align: middle;">
+<p align="center" style="margin: 0;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,jquery,nodejs,react,nextjs,sass" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,jquery,nodejs,react,nextjs,sass" style="vertical-align: middle;" />
   </a>
 </p>
+</td>
 </tr>
 
-<tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🛠️</g-emoji>	
+<tr style="border-bottom: 1px solid #30363d;">
+    <td style="padding: 14px 16px; font-weight: 600; color: #58a6ff; background-color: #161b22; width: 25%; vertical-align: middle; white-space: nowrap;">
+<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🛠️</g-emoji>	
 IDEs/Tools</td>
-    <td>
-<p align="center">
+    <td style="padding: 14px 16px; background-color: #0d1117; vertical-align: middle;">
+<p align="center" style="margin: 0;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,wordpress,docker,gitlab,github,postman" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,wordpress,docker,gitlab,github,postman" style="vertical-align: middle;" />
   </a>
 </p>
-
+</td>
 </tr>
 
-<tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">📀</g-emoji>	
+<tr style="border-bottom: 1px solid #30363d;">
+    <td style="padding: 14px 16px; font-weight: 600; color: #58a6ff; background-color: #161b22; width: 25%; vertical-align: middle; white-space: nowrap;">
+<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">📀</g-emoji>	
 OS</td>
-	<td>
-<p align="center">
+	<td style="padding: 14px 16px; background-color: #0d1117; vertical-align: middle;">
+<p align="center" style="margin: 0;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,kali,linux,wordpress,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=arduino,kali,linux,wordpress,ubuntu" style="vertical-align: middle;" />
   </a>
 </p>
-    
+</td>
 </tr>
 
-<tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🕹️</g-emoji>	
+<tr style="border-bottom: 1px solid #30363d;">
+    <td style="padding: 14px 16px; font-weight: 600; color: #58a6ff; background-color: #161b22; width: 25%; vertical-align: middle; white-space: nowrap;">
+<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🕹️</g-emoji>	
 Cloud</td>
-    <td>
-	<p align="center">
+    <td style="padding: 14px 16px; background-color: #0d1117; vertical-align: middle;">
+	<p align="center" style="margin: 0;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" style="vertical-align: middle;" />
   </a>
-</p>    
-
+</p>	
+</td>
 </tr>
 
 <tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🕹️</g-emoji>	
+    <td style="padding: 14px 16px; font-weight: 600; color: #58a6ff; background-color: #161b22; width: 25%; vertical-align: middle; white-space: nowrap;">
+<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🕹️</g-emoji>	
 Otros</td>
-    <td>
-	<p align="center">
+    <td style="padding: 14px 16px; background-color: #0d1117; vertical-align: middle;">
+	<p align="center" style="margin: 0;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,graphql,nginx,npm,notion,raspberrypi,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=firebase,graphql,nginx,npm,notion,raspberrypi,cloudflare" style="vertical-align: middle;" />
   </a>
-</p>    
-
+</p>	
+</td>
 </tr>
 </table>
 
