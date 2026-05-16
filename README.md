@@ -83,7 +83,7 @@ IDEs/Tools</td>
     <td>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,wordpress,docker,gitlab" />
   </a>
 </p>
 
