@@ -83,7 +83,7 @@ IDEs/Tools</td>
     <td>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,wordpress,docker,gitlab" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,wordpress,docker,gitlab,github,postman" />
   </a>
 </p>
 
@@ -108,6 +108,18 @@ Cloud</td>
 	<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  </a>
+</p>    
+
+</tr>
+
+<tr>
+    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🕹️</g-emoji>	
+Otros</td>
+    <td>
+	<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,graphql,nginx,npm,notion,raspberrypi" />
   </a>
 </p>    
 
