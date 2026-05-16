@@ -56,7 +56,7 @@ misc_interests: ["ai tools", "database tuning", "ci-cd automation", "excel analy
 <table style="width:100%">
 <tr>
 <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">⚙️</g-emoji>
-Frameworks</td>
+Lenguajes</td>
 	<td>
 <p align="center">
   <a href="https://skillicons.dev">
