@@ -65,14 +65,24 @@ Lenguajes</td>
 </p>
 </td>
 </tr>
-
+<tr>
+<td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">
+Base de datos</td>
+	<td>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,rails" />
+  </a>
+</p>
+</td>
+</tr>
 <tr>
     <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">
 Frameworks y Librerías </td>
     <td>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,jquery,nodejs,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,jquery,nodejs,react,nextjs,sass" />
   </a>
 </p>
 </tr>
@@ -119,7 +129,7 @@ Otros</td>
     <td>
 	<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,graphql,nginx,npm,notion,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=firebase,graphql,nginx,npm,notion,raspberrypi,cloudflare" />
   </a>
 </p>    
 
