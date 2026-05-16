@@ -75,8 +75,6 @@ Frameworks</td>
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
-
-    </td>
 </tr>
 
 <tr>
