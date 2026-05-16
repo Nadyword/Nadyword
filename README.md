@@ -60,7 +60,7 @@ Frameworks</td>
 	<td>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=bash,cs,css,html,js,ts" />
   </a>
 </p>
 </td>
