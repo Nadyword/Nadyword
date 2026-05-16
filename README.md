@@ -55,11 +55,8 @@ misc_interests: ["ai tools", "database tuning", "ci-cd automation", "excel analy
 
 <table style="width:100%">
 <tr>
-    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji>
- Languages and Tools</td>
-<td>
 	
-[![My Skills](https://skillicons.dev/icons?i=cs,css,bash,html,js,ts&perline=3)]
+![My Skills](https://skillicons.dev/icons?i=cs,css,bash,html,js,ts&perline=3)
 <img align="left"  width="24" height="30" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png">
 <img align="left"  width="30" height="30" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/34/02/d6/3402d69f-7185-2fa7-1e4c-96c5cf4aecb7/source/512x512bb.jpg">
 </td>
