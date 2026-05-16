@@ -71,7 +71,7 @@ Base de datos</td>
 	<td>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,rails" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,rails" />
   </a>
 </p>
 </td>
